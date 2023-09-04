@@ -14,3 +14,5 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b" width="400">
 <br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wearetyomsmnv&show_icons=true&theme=radical)
