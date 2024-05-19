@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Artyom Semenov</h1>
-<h3 align="center">A penetration tester from Russia</h3>
+<h3 align="center">A cybersecurity expert from Russia</h3>
 
-- 🔭 I’m currently working on [gptbuster](https://github.com/wearetyomsmnv/gptbuster)
+- 🔭 I’m currently working on [AI-LLM-ML_security_study_map](https://github.com/wearetyomsmnv/AI-LLM-ML_security_study_map) , [CYBERORDA](https://github.com/CyberOrda/cyberorda.github.io)
 
 - 🤝 I’m looking for help with [Awesome MlSecOps](https://github.com/RiccardoBiosas/awesome-MLSecOps)
 
