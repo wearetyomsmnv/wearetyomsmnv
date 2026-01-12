@@ -2,49 +2,44 @@
 
 # Привет 👋, я Артём Семенов
 
-### Эксперт по кибербезопасности из России [🇷🇺]
+### Эксперт по безопасности LLM и ИИ-агентов из России [🇷🇺]  
+*Интегрирую security в культуру AI-разработки с 2021 года*
 
 ![Profile views](https://komarev.com/ghpvc/?username=wearetyomsmnv&label=Просмотры+профиля&color=brightgreen&style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wearetyomsmnv&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+### 🔭 Ключевые проекты (2024–2026)
+[![AI-LLM-ML Security Study Map](https://img.shields.io/badge/-AI--LLM--ML_Security_Study_Map-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wearetyomsmnv/AI-LLM-ML_security_study_map)  
+[![Awesome LLMSecOps](https://img.shields.io/badge/-Awesome_LLMSecOps-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wearetyomsmnv/Awesome-LLMSecOps)  
+[![Awesome China AI Security](https://img.shields.io/badge/-Awesome_China_AI_Security-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wearetyomsmnv/Awesome-China-AI-Security)
+
+### 🧪 Исследования и технические материалы
+[![White-Box LLM Attacks](https://img.shields.io/badge/-White--Box_LLM_Attacks-181717?style=for-the-badge&logo=book&logoColor=white)](https://wearetyomsmnv.github.io/whiteboxllmattack)
+
+### 📚 Текущая работа
+Пишу техническую книгу по безопасности LLM-агентов: только практика, кейсы и архитектурные паттерны (ожидается в 2026)
+
+### 🤝 Вношу вклад в глобальное сообщество MLSecOps
+[![Awesome MlSecOps](https://img.shields.io/badge/-Awesome_MLSecOps-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiccardoBiosas/awesome-MLSecOps)
+
+### 📫 Где меня найти
+[![Telegram — личный](https://img.shields.io/badge/-Личный_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wearetyomsmnv)  
+[![Telegram — PWNAI](https://img.shields.io/badge/-PWNAI_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.mе/pwnai)
 
 ---
 
-### 🔭 Текущие проекты
-[![AI-LLM-ML_security_study_map](https://img.shields.io/badge/-AI--LLM--ML_security_study_map-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wearetyomsmnv/AI-LLM-ML_security_study_map)
-[![CYBERORDA](https://img.shields.io/badge/-CYBERORDA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberOrda/cyberorda.github.io)
+### 💬 О моём подходе
+> «Guardrails — не решение, а катализатор нормализации девиаций в ИИ».  
+> «Безопасность LLM начинается не с фильтров, а с признания: мы строим храмы из песка, а называем их замками».
+---
 
-### 🤝 Активно вношу коммиты в
-[![Awesome MlSecOps](https://img.shields.io/badge/-Awesome_MlSecOps-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RiccardoBiosas/awesome-MLSecOps)
-
-### 📫 Как со мной связаться
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wearetyomsmnv)
+### 💻 Технологический стек
+![Skills](https://skillicons.dev/icons?i=python,bash,linux,docker,git,pytorch,tensorflow,html,css&perline=5)
 
 ---
 
-### 🏆 Достижения
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/asmnv.png)
-
----
-
-### 💻 Языки и инструменты
-![Skills](https://skillicons.dev/icons?i=bash,cs,docker,figma,linux,ps,python,html,css&perline=3)
-
----
-
-![Cool GIF](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/31edfb91-6645-4b85-b273-b5280b342e0b)
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wearetyomsmnv&show_icons=true&theme=radical)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=wearetyomsmnv&theme=radical)
-
----
-
-### 📊 Статистика использования языков
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wearetyomsmnv&show_icons=true&locale=en&layout=compact&theme=radical)
-
----
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=wearetyomsmnv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wearetyomsmnv&layout=compact&theme=radical)
 
 </div>
