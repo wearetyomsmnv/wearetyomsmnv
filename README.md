@@ -58,8 +58,8 @@ I reject linear causality. My mental models are compiled from:
 
 <div align="center">
 
-[![UPLINK: PWNAI](https://img.shields.io/badge/UPLINK_PWNAI-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pwnai)  
-[![UPLINK: DIRECT](https://img.shields.io/badge/UPLINK_DIRECT-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wearetyomsmnv)
+[![UPLINK: PWNAI](https://img.shields.io/badge/UPLINK_PWNAI-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/pwnai)  
+[![UPLINK: DIRECT](https://img.shields.io/badge/UPLINK_DIRECT-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/wearetyomsmnv)
 
 </div>
 
