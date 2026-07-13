@@ -25,7 +25,7 @@
 
 ### 📫 Где меня найти
 [![Telegram — личный](https://img.shields.io/badge/-Личный_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wearetyomsmnv)  
-[![Telegram — PWNAI](https://img.shields.io/badge/-PWNAI_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.mе/pwnai)
+[![Telegram — PWNAI](https://img.shields.io/badge/-PWNAI_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pwmai)
 
 ---
 
