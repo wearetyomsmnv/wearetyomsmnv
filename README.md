@@ -9,7 +9,7 @@
 </pre>
 
 # A R T E M &nbsp; S E M E N O V
-### `ARCHITECT_OF_DETERMINISM` // `AI_SECURITY_PRINCIPAL` 🇷🇺
+### `ARCHITECT_OF_DETERMINISM` // `AI_SECURITY_RESEARCHER` 🇷🇺
 
 > *“We build cathedrals of stochastic noise and insist on calling them intelligence.*  
 > *I do not patch models. I engineer the architectural constraints that make chaos manageable.”*
